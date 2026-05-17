@@ -1,0 +1,6 @@
+{
+  "name": "LedgerGuard",
+  "description": "Offline financial auditor application with local-first IndexedDB storage and client-side CSV parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
